@@ -19,4 +19,4 @@ Steps to Reproduce:
     exploit
 Execute the payload on the target machine.
 
-This project shoukd be carried out following all ethical considerations and is meant only for educational purpose  
+This project should be carried out following all ethical considerations, and is meant only for educational purposes.
